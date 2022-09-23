@@ -18,3 +18,5 @@ Session State Patterns: Client Session State (456), Server Session State (458), 
 
 Base Patterns: Gateway (466), Mapper (473), Layer Supertype (475), Separated Interface (476), Registry (480), Value Object (486), Money (488), Special Case (496), Plugin (499), Service Stub (504), Record Set (508)
 https://www.martinfowler.com/eaaCatalog/index.html
+
+https://www.codeproject.com/Tips/790758/Specification-and-Notification-Patterns
